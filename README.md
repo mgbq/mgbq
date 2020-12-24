@@ -1,6 +1,6 @@
 ### Hi there，I'm Nxmin 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mgbq&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+> 如果你导入源码或者学习过程中有任何问题，都可以加我qq：392716797。大家一起学习，一起进步。 前端QQ群：493671066
 
 ---
  | 掘金  |csdn博客 |
