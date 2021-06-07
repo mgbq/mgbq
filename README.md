@@ -6,6 +6,6 @@
 ## 粉丝福利（公众号：“南瓜影讯” 免费看最新，热门电影）
 
 ---
- | 掘金  |csdn博客 |
- | ----  | --- |
- | [✈️点我直达](https://juejin.cn/user/624178334799159)|[✈️点我直达](https://blog.csdn.net/qq_32340877)|
+ | 掘金  |csdn博客 | uniapp插件|
+ | ----  | --- |--- |
+ | [✈️点我直达](https://juejin.cn/user/624178334799159)|[✈️点我直达](https://blog.csdn.net/qq_32340877)| [✈️点我直达](https://ext.dcloud.net.cn/publisher?id=148103)|
