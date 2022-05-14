@@ -4,7 +4,12 @@
 
 
 ## 粉丝福利（公众号：“南瓜影讯” 免费看最新，热门电影）
+
+<img src="https://github.com/mgbq/static/blob/main/ngyy.jpg?raw=true"   width="300px" height="300px"/>
+
 ## 源码福利（公众号：“源码好又多” 全网优质源码免费分享）
+
+<img src="https://github.com/mgbq/static/blob/main/code666.jpg?raw=true"   width="300px" height="300px"/>
 
 ---
  | 掘金  |csdn博客 | uniapp插件|
