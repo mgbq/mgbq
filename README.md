@@ -9,6 +9,9 @@
 
 ## 源码福利（公众号：“源码好优多” 全网优质源码免费分享）
 
+
+<img src="https://github.com/mgbq/static/blob/main/ymhyd.jpg?raw=true"   width="300px" height="300px"/>
+
 ---
  | 掘金  |csdn博客 | uniapp插件|
  | ----  | --- |--- |
